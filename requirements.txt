@@ -1,0 +1,18 @@
+
+# Flask: Lightweight framework to build REST APIs
+Flask==2.2.2
+
+# Scikit-learn: Machine learning library for training models
+scikit-learn==1.1.3
+
+# pandas: Data manipulation and analysis
+pandas==1.4.4
+
+# numpy: Numerical computations
+numpy==1.23.4
+
+# Streamlit: User-friendly web app framework for visualizing predictions
+streamlit==1.14.0
+
+# joblib: Serialization and deserialization of Python objects (model saving/loading)
+joblib==1.2.0
